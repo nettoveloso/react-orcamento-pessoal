@@ -56,18 +56,19 @@ Esse projeto está utilizando as seguintes tecnologias
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [StyledComponets](https://styled-components.com)
+- [MirageJs](https://miragejs.com)
 
 ## 🚀 Getting started
 
 Clone the project
 
 ```bash
-$ git clone https://github.com/nettoveloso/componentizando-aplicacao-react-ignite-rocketseat.git
+$ git clone https://github.com/nettoveloso/react-orcamento-pessoal.git
 ```
 
 Access the folder
 ```bash
-$ cd componentizando-aplicacao-react-ignite-rocketseat
+$ cd react-orcamento-pessoal
 ```
 
 Follow the steps below
