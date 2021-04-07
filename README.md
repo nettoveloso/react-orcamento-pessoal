@@ -1,46 +1,88 @@
-# Getting Started with Create React App
+<p align="center">
+  <h3 align="center">Orçamento Pessoal</h3>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">  
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-license">License</a>
+</p>
 
-## Available Scripts
+<p align="center">
 
-In the project directory, you can run:
+  <a href="#">
+    <img alt="development" src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=FFFFFF&labelColor=4d4d4d">
+  </a>
 
-### `yarn start`
+  <a href="#">
+    <img src="https://img.shields.io/github/stars/KesleyDavid/study_Ignite_React_Challenge-01-02?label=stars&message=MIT&color=28F5BE&labelColor=4d4d4d" alt="Stars">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="#">
+    <img src="https://img.shields.io/github/forks/KesleyDavid/study_Ignite_React_Challenge-01-02?label=forks&message=MIT&color=28F5BE&labelColor=4d4d4d" alt="Forks">  
+  </a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=28F5BE&labelColor=4d4d4d" alt="PRs welcome!" />
+  </a>
 
-### `yarn test`
+  <a href="./LICENSE">
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=28F5BE&labelColor=4d4d4d">
+  </a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</p>
 
-### `yarn build`
+<p align="center">
+    <img alt="Orçamento Pessoal" title="Orçamento Pessoal" src=".github/preview.png" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💻 Projeto
 
-### `yarn eject`
+Nesse projeto você vai ter um mini sistema de orçamento pessoal com ReactJS.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Será possivel importar seu orçamento a partir de uma planilha em excel.
+- Você poderá inserir dados manuais.
+- Todas as informaçoes vão ficar salvas enquanto o projeto está em execução. (Não tem um banco de dados)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🔖 Tecnologias
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Esse projeto está utilizando as seguintes tecnologias
 
-## Learn More
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [StyledComponets](https://styled-components.com)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Getting started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Clone the project
+
+```bash
+$ git clone https://github.com/nettoveloso/componentizando-aplicacao-react-ignite-rocketseat.git
+```
+
+Access the folder
+```bash
+$ cd componentizando-aplicacao-react-ignite-rocketseat
+```
+
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the server (backend)
+$ yarn server
+
+# Start the web (frontend)
+$ yarn dev
+```
+
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
